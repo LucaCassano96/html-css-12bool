@@ -1,0 +1,23 @@
+
+
+[class*="col"]{
+    min-height: 50px;
+    background-color: rgb(38, 107, 228);
+    border: solid 2px #fff ;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    margin-bottom: 20px;
+}
+
+h2{
+    margin: 30px 0;
+}
+
+.green{
+    background-color: green; 
+}
